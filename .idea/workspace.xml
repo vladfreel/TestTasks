@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2799c412-e257-4286-a0e2-4399c1e1b244" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tasks.rb" afterPath="$PROJECT_DIR$/tasks.rb" />
     </list>
@@ -18,8 +17,18 @@
       <file leaf-file-name="tasks.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tasks.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1296">
-              <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+            <state relative-caret-position="721">
+              <caret line="76" column="49" lean-forward="true" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="robot.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/robot.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -46,6 +55,7 @@
         <option value="$PROJECT_DIR$/Circ.rb" />
         <option value="$PROJECT_DIR$/H.rb" />
         <option value="$PROJECT_DIR$/Write.rb" />
+        <option value="$PROJECT_DIR$/robot.rb" />
         <option value="$PROJECT_DIR$/tasks.rb" />
       </list>
     </option>
@@ -121,15 +131,16 @@
       <updated>1508234440486</updated>
       <workItem from="1508234442080" duration="354000" />
       <workItem from="1508234981572" duration="17978000" />
-      <workItem from="1508307407620" duration="24899000" />
+      <workItem from="1508307407620" duration="26989000" />
+      <workItem from="1508392861213" duration="3204000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43231000" />
+    <option name="totallyTimeSpent" value="48525000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="25" width="1924" height="1036" extended-state="6" />
+    <frame x="648" y="25" width="1924" height="1036" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -166,6 +177,22 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/tasks.rb">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks.rb">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -176,7 +203,14 @@
     <entry file="file://$PROJECT_DIR$/tasks" />
     <entry file="file://$PROJECT_DIR$/task2" />
     <entry file="file://$PROJECT_DIR$/task2.rb" />
-    <entry file="file://$PROJECT_DIR$/Write.erb">
+    <entry file="file://$PROJECT_DIR$/Write.erb" />
+    <entry file="file://$PROJECT_DIR$/Circ.erb" />
+    <entry file="file://$PROJECT_DIR$/H" />
+    <entry file="file://$PROJECT_DIR$/Write.rb" />
+    <entry file="file://$PROJECT_DIR$/H.rb" />
+    <entry file="file://$PROJECT_DIR$/Circ.rb" />
+    <entry file="file://$PROJECT_DIR$/robot.erb" />
+    <entry file="file://$USER_HOME$/.config/mate/panel2.d/default/launchers/tasks.rb.desktop">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -184,50 +218,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Circ.erb">
+    <entry file="file://$PROJECT_DIR$/robot.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/H">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Write.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/H.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Circ.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="3" />
+        <state relative-caret-position="216">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tasks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1296">
-          <caret line="72" column="9" lean-forward="true" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
+        <state relative-caret-position="721">
+          <caret line="76" column="49" lean-forward="true" selection-start-line="76" selection-start-column="49" selection-end-line="76" selection-end-column="49" />
           <folding />
         </state>
       </provider>

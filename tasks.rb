@@ -63,14 +63,21 @@ def choose( i )
   if(i == 1)
     ob.wr
   elsif(i == 2)
-    ob.circle(5)
+    ob.circle(10)
   elsif(i == 3)
     hash = { key1: [1,2,3,5,6], key2: { key3: { key4: { key5: 'dada' } } } }
     p ob.find(hash, :key5)
   end
 end
 
-choose(1)
+puts 'Hello, if you want to see <3 ruby third times but tenth, twentieth, twenty-fifth write ruby'
+puts 'Write : 1'
+puts 'If you want to draw a circle '
+puts 'Write : 2'
+puts 'If you want to find a value of key in Hash'
+puts 'Write : 3'
+c = gets.to_i
+choose(c)
 
 
 
