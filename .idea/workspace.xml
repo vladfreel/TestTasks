@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2799c412-e257-4286-a0e2-4399c1e1b244" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot.rb" afterPath="$PROJECT_DIR$/robot.rb" />
-    </list>
+    <list default="true" id="2799c412-e257-4286-a0e2-4399c1e1b244" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="648" />
     <option name="y" value="25" />
     <option name="width" value="1400" />
@@ -157,15 +154,15 @@
       <workItem from="1508392861213" duration="13706000" />
       <workItem from="1508411233541" duration="8509000" />
       <workItem from="1508476679824" duration="7007000" />
-      <workItem from="1508483726030" duration="489000" />
+      <workItem from="1508483726030" duration="982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75032000" />
+    <option name="totallyTimeSpent" value="75525000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="648" y="25" width="1924" height="1036" extended-state="6" />
+    <frame x="648" y="25" width="1924" height="1036" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
